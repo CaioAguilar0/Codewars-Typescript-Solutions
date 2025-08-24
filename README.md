@@ -1,14 +1,12 @@
-# Codewars-Typescript-Solutions
-My TypeScript solutions to Codewars kata problems
-# Codewars TypeScript Solutions
 
+# Codewars TypeScript Solutions
 My journey through Codewars kata problems using TypeScript. This repository contains my solutions organized by difficulty level.
 
 ## 📈 Progress
 
-- **Current Rank:** [Your current rank]
-- **Honor Points:** [Your honor points]  
-- **Total Completed:** [Number of kata completed]
+- **Current Rank:** [7 Kyu]
+- **Honor Points:** [61]  
+- **Total Completed:** [11]
 - **Language:** TypeScript
 
 ## 🎯 Goal
@@ -33,15 +31,25 @@ Solutions are organized by difficulty level (kyu):
 ## 🏆 Completed Kata
 
 ### 8 Kyu (Beginner)
-- [ ] [Palindrome Checker](./8-kyu/palindrome-checker.ts)
+- [ ] [Is It A Palindrome?](./8-kyu/is-it-a-palindrome?.ts)
+- [ ] [Count The Monkeys](./8-kyu/count-the-monkeys.ts)
 
 ### 7 Kyu (Beginner)
 - [ ] [Find Unique Number](./7-kyu/find-unique-number.ts)
-
+- [ ] [Sum Of Numbers](./7-kyu/sum-of-numbers.ts)
+- [ ] [Get the Middle Character](./7-kyu/get-the-middle-character.ts)
+- [ ] [Sum of two lowest positive integers](./7-kyu/sum-of-two-lowest-positive-integers.ts)
+- [ ] [Printer Errors](./7-kyu/printer-errors.ts)
+- [ ] [Odd or Even](./7-kyu/odd-or-even.ts)
+- [ ] [Reverse Words](./7-kyu/reverse-words.ts)
+      
 ### 6 Kyu (Novice)  
 - [ ] [Reverse Words](./6-kyu/reverse-words.ts)
 - [ ] [Rotate and Reverse Chunks](./6-kyu/rotate-reverse-chunks.ts)
-
+- [ ] [Replace With Alphabet Position](./6-kyu/replace-with-alphabet-position.ts)
+- [ ] [Find the unique number](./6-kyu/find-the-unique-number.ts)
+- [ ] [Reverse Or Rotate?](./6-kyu/reverse-or-rotate?.ts)
+- [ ] 
 ### 5 Kyu (Novice)
 - Coming soon...
 
@@ -57,7 +65,7 @@ Each solution file contains:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/codewars-typescript-solutions.git
+git clone https://github.com/CaioAguilar0/codewars-typescript-solutions.git
 
 # Navigate to project
 cd codewars-typescript-solutions
@@ -82,7 +90,7 @@ node filename.js
 
 ## 🔗 Links
 
-- [My Codewars Profile](https://www.codewars.com/users/YOUR_USERNAME)
+- [My Codewars Profile]([https://www.codewars.com/users/YOUR_USERNAME](https://www.codewars.com/users/CaioAguilar0/completed_solutions))
 - [Codewars Website](https://www.codewars.com/)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 
